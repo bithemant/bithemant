@@ -260,7 +260,9 @@ No verified certification listed.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bithemant&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" alt="GitHub profile trophies"/>
+[![GitHub profile](https://img.shields.io/badge/View-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bithemant)  
+
+_Trophy image service is currently unavailable, so this section links directly to the live profile instead._
 
 </div>
 
@@ -270,7 +272,9 @@ No verified certification listed.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bithemant&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+[![Contribution activity](https://img.shields.io/badge/Explore-Contribution%20Activity-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bithemant?tab=overview&from=2026-01-01&to=2026-12-31)  
+
+_The public activity-graph image service is unavailable; use GitHub’s native contribution activity instead._
 
 </div>
 
