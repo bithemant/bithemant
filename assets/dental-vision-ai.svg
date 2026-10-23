@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Dental Vision AI — project cover illustration</title>
+  <desc id="desc">A stylized panoramic dental image analysis interface with landmark markers and a purple technical dashboard. This is an illustration, not a clinical image or model output.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset=".55" stop-color="#171333"/><stop offset="1" stop-color="#28104b"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e293b"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="jaw" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ddd6fe" stop-opacity=".88"/><stop offset="1" stop-color="#8b5cf6" stop-opacity=".2"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <circle cx="1030" cy="70" r="190" fill="#7c3aed" opacity=".12"/>
+  <circle cx="120" cy="470" r="210" fill="#4f46e5" opacity=".13"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="56" y="58" fill="#a78bfa" font-size="15" font-weight="700" letter-spacing="3">COMPUTER VISION / DENTAL IMAGING</text>
+    <text x="56" y="110" fill="#f8fafc" font-size="38" font-weight="750">Dental Vision AI</text>
+    <text x="56" y="144" fill="#cbd5e1" font-size="17">Landmark detection · Segmentation · Learning tools</text>
+    <rect x="56" y="176" width="720" height="286" rx="18" fill="#070b14" stroke="#475569" stroke-opacity=".75"/>
+    <rect x="72" y="192" width="688" height="254" rx="12" fill="#111827"/>
+    <path d="M105 250 C170 218 235 222 286 246 S390 276 432 247 S546 218 598 243 S683 264 727 237" fill="none" stroke="#94a3b8" stroke-opacity=".25" stroke-width="2"/>
+    <path d="M104 372 C160 336 224 328 284 351 S390 396 440 366 S545 328 599 350 S679 384 727 353" fill="none" stroke="#94a3b8" stroke-opacity=".25" stroke-width="2"/>
+    <path d="M110 282 C150 244 190 245 222 273 C253 299 268 352 296 365 C320 377 330 326 351 303 C373 280 395 282 414 304 C434 326 442 378 464 373 C488 368 505 309 532 282 C563 251 603 246 633 272 C662 296 677 340 710 355" fill="none" stroke="url(#jaw)" stroke-width="17" stroke-linecap="round" opacity=".75"/>
+    <path d="M111 282 C150 244 190 245 222 273 C253 299 268 352 296 365 C320 377 330 326 351 303 C373 280 395 282 414 304 C434 326 442 378 464 373 C488 368 505 309 532 282 C563 251 603 246 633 272 C662 296 677 340 710 355" fill="none" stroke="#e9d5ff" stroke-width="2.5" stroke-linecap="round"/>
+    <g stroke="#c4b5fd" stroke-width="1.2" opacity=".8">
+      <path d="M170 251v45m-22-22h44"/><path d="M247 296v45m-22-22h44"/><path d="M331 321v45m-22-22h44"/><path d="M409 303v45m-22-22h44"/><path d="M488 326v45m-22-22h44"/><path d="M572 274v45m-22-22h44"/><path d="M650 290v45m-22-22h44"/>
+    </g>
+    <g fill="#a78bfa" stroke="#f5f3ff" stroke-width="2" filter="url(#glow)">
+      <circle cx="170" cy="273" r="5"/><circle cx="247" cy="318" r="5"/><circle cx="331" cy="343" r="5"/><circle cx="409" cy="325" r="5"/><circle cx="488" cy="348" r="5"/><circle cx="572" cy="296" r="5"/><circle cx="650" cy="312" r="5"/>
+    </g>
+    <rect x="800" y="176" width="344" height="286" rx="18" fill="url(#panel)" stroke="#6d28d9" stroke-opacity=".75"/>
+    <text x="828" y="215" fill="#f8fafc" font-size="18" font-weight="700">Analysis workspace</text>
+    <text x="828" y="240" fill="#94a3b8" font-size="12" letter-spacing="1.4">FEATURE MODULES</text>
+    <g font-size="14" fill="#e2e8f0">
+      <rect x="828" y="258" width="288" height="38" rx="9" fill="#312e81" fill-opacity=".7"/><circle cx="847" cy="277" r="5" fill="#c4b5fd"/><text x="862" y="282">31-point landmark detection</text>
+      <rect x="828" y="306" width="288" height="38" rx="9" fill="#1e293b"/><circle cx="847" cy="325" r="5" fill="#a78bfa"/><text x="862" y="330">Tooth &amp; pulp segmentation</text>
+      <rect x="828" y="354" width="288" height="38" rx="9" fill="#1e293b"/><circle cx="847" cy="373" r="5" fill="#8b5cf6"/><text x="862" y="378">Forensic age estimation</text>
+      <rect x="828" y="402" width="288" height="38" rx="9" fill="#1e293b"/><circle cx="847" cy="421" r="5" fill="#c4b5fd"/><text x="862" y="426">Dental student learning</text>
+    </g>
+    <text x="56" y="493" fill="#94a3b8" font-size="12">CONCEPTUAL PROJECT ILLUSTRATION · NOT A REAL OPG, CLINICAL RESULT, OR MODEL PREDICTION</text>
+  </g>
+</svg>
