@@ -52,6 +52,9 @@ A dental-image analysis and learning platform developed around panoramic dental 
 <td width="50%" valign="top">
 
 ### ✊ Computer Vision RPS
+
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/computer-vision-rps.svg" width="100%" alt="Computer Vision RPS conceptual project illustration"/>
+
 **Interactive computer-vision project**
 
 A Rock Paper Scissors game using hand-gesture recognition to connect real-time vision input with game logic.
@@ -68,6 +71,9 @@ A Rock Paper Scissors game using hand-gesture recognition to connect real-time v
 <td width="50%" valign="top">
 
 ### 📊 Business Growth Analyzer
+
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/business-growth-analyzer.svg" width="100%" alt="Business Growth Analyzer conceptual project illustration"/>
+
 **Web-based OLAP analytics**
 
 A Flask application for exploring uploaded Excel/CSV datasets and visualizing business insights.
@@ -82,6 +88,9 @@ A Flask application for exploring uploaded Excel/CSV datasets and visualizing bu
 <td width="50%" valign="top">
 
 ### 🐍 Python Automation Suite
+
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/python-automation-suite.svg" width="100%" alt="Python Automation Suite conceptual project illustration"/>
+
 **Python utilities**
 
 A collection of scripts and command-line tools for practical automation and file/data tasks.
@@ -99,8 +108,32 @@ A collection of scripts and command-line tools for practical automation and file
 
 ### More engineering work
 
-- **[Honeypot Virtualization System](https://github.com/bithemant/Honeypot-Virtualization-System)** — a Flask-based honeypot simulation with a virtual file system and shell environment that logs interactions.
-- **[Portfolio website](https://www.bit-hemant.me)** — my personal web portfolio.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Honeypot Virtualization System
+
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/honeypot-virtualization.svg" width="100%" alt="Honeypot Virtualization System conceptual project illustration"/>
+
+A Flask-based honeypot simulation with a virtual file system and shell environment that logs interactions.
+
+[Explore repository →](https://github.com/bithemant/Honeypot-Virtualization-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio Website
+
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/portfolio-website.svg" width="100%" alt="Personal portfolio website conceptual preview"/>
+
+My personal portfolio for showcasing projects and engineering interests.
+
+[Visit website →](https://www.bit-hemant.me)
+
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
