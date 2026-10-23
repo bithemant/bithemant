@@ -32,16 +32,21 @@ I'm an Information Technology student interested in building useful software, ap
 <td width="50%" valign="top">
 
 ### 🦷 Dental Vision AI
-**Academic AI/ML project**
+
+<a href="https://www.bit-hemant.me"><img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/dental-vision-ai.svg" width="100%" alt="Dental Vision AI conceptual project illustration"/></a>
 
 A dental-image analysis and learning platform developed around panoramic dental (OPG) images.
 
-- 31-point anatomical landmark detection
+- **31-point landmark detection** for anatomical structures
 - Forensic dental age-estimation research
 - FDI tooth identification, tooth and pulp segmentation
 - Learning activities, landmark quizzes, and drawing-based assessment
 
 <sub>Computer vision · Deep learning · Dental imaging</sub>
+
+[Explore my portfolio →](https://www.bit-hemant.me)
+
+<sub>Cover image is a conceptual illustration, not a real OPG image or model prediction.</sub>
 
 </td>
 <td width="50%" valign="top">
