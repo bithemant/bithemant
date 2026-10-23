@@ -211,19 +211,7 @@ Retain this entry as a completed project only if the implementation is available
 
 ## 08. Certifications
 
-Only verified certifications should be listed here. No certification titles or credential IDs have been provided yet.
-
-### AWS
-No verified certification listed.
-
-### Oracle
-No verified certification listed.
-
-### NPTEL
-No verified certification listed.
-
-### Cisco
-No verified certification listed.
+Certifications will be added here when completed.
 
 ---
 
