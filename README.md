@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=230&section=header&text=HEMANT%20SINGH&fontSize=46&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20APPLIED%20AI%2FML&descAlignY=59&descSize=16" width="100%" alt="Hemant Singh — Software Engineering and Applied AI/ML"/>
-
-<a href="https://www.bit-hemant.me"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="mailto:HS169827@GMAIL.COM"><img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/bithemant"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/profile-hero.svg" width="100%" alt="Hemant Singh — Software Engineering and Applied AI/ML. Animated minimal charcoal and violet engineering banner."/>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-6D28D9?style=flat-square" alt="Software development"/>
-  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-5B21B6?style=flat-square" alt="Computer vision"/>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-7C3AED?style=flat-square" alt="AI and machine learning"/>
+  <a href="https://www.bit-hemant.me"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio website"/></a>
+  <a href="mailto:HS169827@GMAIL.COM"><img src="https://img.shields.io/badge/CONTACT-Email%20Me-24212F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hemant"/></a>
+  <a href="https://github.com/bithemant"><img src="https://img.shields.io/badge/GITHUB-Explore%20Repos-24212F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories"/></a>
 </p>
+
+<sub>INFORMATION TECHNOLOGY STUDENT · SOFTWARE ENGINEERING · APPLIED AI/ML · COMPUTER VISION</sub>
 
 </div>
 
@@ -192,7 +190,5 @@ If you're interested in software development, applied AI/ML, computer vision, or
 <div align="center">
 
 <a href="https://www.bit-hemant.me">Portfolio</a> · <a href="https://github.com/bithemant">GitHub</a> · <a href="mailto:HS169827@GMAIL.COM">Email</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:312E81,100:0D1117&height=110&section=footer" width="100%" alt="Purple footer banner"/>
 
 </div>
