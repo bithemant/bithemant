@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/profile-hero.svg" width="100%" alt="Hemant Singh — Software Engineering and Applied AI/ML. Animated charcoal and violet engineering banner."/>
+<img src="https://raw.githubusercontent.com/bithemant/bithemant/main/assets/profile-hero.svg" width="100%" alt="Hemant Singh — Software Developer, AI/ML · Cybersecurity · Full-Stack. Dark engineering banner with blue and orange circuit accents."/>
 
 <p>
   <a href="https://www.bit-hemant.me"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio"/></a>
